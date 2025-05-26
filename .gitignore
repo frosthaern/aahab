@@ -173,8 +173,12 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# documents
-synopsis.pdf
 
-# datasets
-Query4Code.jsonl
+# others
+synopsis.pdf
+todo.pdf
+topicwise_pairs.jsonl
+steps.md
+dataset.jsonl
+cluster.json
+
